@@ -1,4 +1,4 @@
-<img src="Images/houses.png">
+<img src="Images/houses">
 
 # Machine Learning Project
 Ali Akdeniz
